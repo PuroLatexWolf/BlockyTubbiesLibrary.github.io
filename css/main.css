@@ -1,0 +1,31 @@
+#main {
+    position: relative;
+    top: 1px;
+    right: -300px;  
+	border-radius: 20px;
+	width: 650px;
+	height: 110%;
+	background-color: #e4f1ed;
+    margin: 50px;
+}
+
+.warn_information {
+    font-weight: bold;
+    color:coral;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+}
+
+
+h2 {
+	font-weight: bold;
+}
+p {
+	font-weight: normal;
+}
